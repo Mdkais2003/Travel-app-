@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Travel</string>
+    <string name="introTitle">Explorer the<font color='#3f95ec'> Wrold </font> with US</string>
+
+    <string name="subintro">loren inpsum dolor sit amet, consectetur\n adipicing elit seddo eiusmod tempor.</string>
+    >
+
+</resources>

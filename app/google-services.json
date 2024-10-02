@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797852594174",
+    "project_id": "travel189-2",
+    "storage_bucket": "travel189-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797852594174:android:4fddf76c65da9c11eddaaf",
+        "android_client_info": {
+          "package_name": "com.tasktrea.travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKUThn8v0epFVDXNRjjr8PEzLovqBiHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
